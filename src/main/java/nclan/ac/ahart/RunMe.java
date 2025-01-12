@@ -43,6 +43,6 @@ public class RunMe {
      * @return Result of the equation.
      */
     public int calculateValue(int a, int b) {
-        return (a + b) * 3;
+        return (a + b) * 4;
     }
 }
