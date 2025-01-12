@@ -1,0 +1,26 @@
+# Compiled class files
+target/
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Log files
+logs/
+
+# Generated files
+**/generated-sources/
+
+# Dependency directories
+**/.m2/repository/
+
+# Build tools
+**/.gradle/
+**/.mvn/
+
+# IDE-specific settings
+**/.vscode/
+
+# Temporary files
+*.tmp
+*.swp

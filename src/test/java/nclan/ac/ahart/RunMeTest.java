@@ -16,7 +16,7 @@ class RunMeTest {
 
     @Test
     void testMakeName() {
-        assertEquals("Alan  Hart", app.makeName("Alan", "Hart"));
+        assertEquals("Alan Hart", app.makeName("Alan", "Hart"));
     }
 
     @Test
