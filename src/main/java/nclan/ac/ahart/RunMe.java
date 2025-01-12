@@ -4,7 +4,8 @@ public class RunMe {
     public static void main(String[] args) {
         System.out.println("Two Simple Methods (TSM)");
         RunMe myApp = new RunMe();
-        myApp.runStuff("Alan", 123);
+        if (myApp.runStuff("Alan", 123))
+            System.out.println("Everything ran!");
     }
 
     /**
@@ -43,6 +44,6 @@ public class RunMe {
      * @return Result of the equation.
      */
     public int calculateValue(int a, int b) {
-        return (a + b) * 4;
+        return (a + b) * 3;
     }
 }
