@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48a759d0-368d-4bdc-812a-4d98c54c4a92" name="Changes" comment="Fix intentional error, add .gitignore file.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nclan/ac/ahart/RunMe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nclan/ac/ahart/RunMe.class" afterDir="false" />
-    </list>
+    <list default="true" id="48a759d0-368d-4bdc-812a-4d98c54c4a92" name="Changes" comment="removing workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736687381134</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="removing workspace.xml">
+      <option name="closed" value="true" />
+      <created>1736688258755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736688258755</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +248,8 @@
     <MESSAGE value="one" />
     <MESSAGE value="two" />
     <MESSAGE value="Fix intentional error, add .gitignore file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix intentional error, add .gitignore file." />
+    <MESSAGE value="removing workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing workspace.xml" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
