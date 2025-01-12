@@ -20,7 +20,7 @@ jobs:
 
       - name: Build with Maven
         run: |
-          mvn clean install
+          mvn compile
 
       - name: Run Tests
         run: |
